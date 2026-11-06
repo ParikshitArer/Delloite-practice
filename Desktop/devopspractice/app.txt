@@ -1,3 +1,2 @@
-Application: Payment
-Cloud: AZURE
-Environment: Development
+Parikshit
+Arer
